@@ -22,7 +22,7 @@
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
 - ✨ Aspiring a Full-Stack JavaScript Developer
-- 👨‍🎓 Information Technology  [University of Palestine](https://en.up.edu.ps/)
+- 👨‍🎓 Civil Engineer  [University of Palestine](https://en.up.edu.ps/)
 - 👨‍ Code Academy - [Gaza Sky Geeks](https://gazaskygeeks.com/code/)
 - 🥳️ [Coding Foundations Course](https://gazaskygeeks.com/coders-fundamentals-course/) graduate at [Gaza Sky Geeks](https://gazaskygeeks.com/)
 
